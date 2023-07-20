@@ -1,0 +1,5 @@
+yolov5
+ultralytics
+opencv-python
+opencv-contrib-python
+
